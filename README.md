@@ -6,4 +6,10 @@ rap.py is for model wrapper for particular formaing of the faster rcnn model
 visualizion.py is for visualizing the saliency map
 common is just simple code used in drise.py 
 constants are simple constant defined used in rap.py 
-jpg images to see the output and get the result 
+jpg images to see the output and get the result.
+
+Implementing paper : Black-box Explanation of Object Detectors via Saliency Maps
+Vitali Petsiuk* et.al
+
+The code which helped me is :  Open source projects and samples from Microsoft
+
